@@ -11,23 +11,23 @@ export const HeroSection = () => {
           <div className="flex flex-col justify-start items-start  space-y-1">
             <div className="font-extrabold text-transparent text-[4.25rem] bg-clip-text bg-gradient-to-r from-[#4776E6] to-[#8E54E9] SCIFISIZE">
               SCI<span id="eta">&#951;</span>
-              <span id="prime">&#8242;</span>TFIC 2k25
+              <span id="prime">&#8242;</span>TFIC 2k26
             </div>
             <div className="text-transparent text-[1.75rem] bg-clip-text bg-gradient-to-r from-[#272727] to-[#272727CC] TEXTSIZE">
               Science and Technology over Fiction
             </div>
             <div className="text-transparent text-[1.5rem] bg-clip-text bg-gradient-to-r from-[#272727] to-[#272727CC] TEXTSIZE">
-              18th January 2025
+              17th January 2026
             </div>
             <div className="text-2xl text-transparent  bg-clip-text bg-gradient-to-r from-[#B24592] to-[#F15F79] font-bold idea_adjust">
-              Ideathon 7.0
+              Ideathon 8.0
             </div>
             <div className="text-xl italic text-transparent  bg-clip-text bg-gradient-to-r from-[#272727] to-[#414345] font-bold size_adjust">
               Young Innovative Competition
             </div>
             <div className="text-base  text-transparent text-justify  bg-clip-text bg-gradient-to-r from-[#272727] to-[#414345] font-bold w-[550px] pt-2 TEXTSIZE1">
               Compete with the innovative and enthusiastic minds of the nation
-              in IDEATHON 7.0.
+              in IDEATHON 8.0.
             </div>
             <div className="text-base  text-transparent  bg-clip-text bg-gradient-to-r from-[#272727] to-[#414345] font-bold w-[550px] pt-2 TEXTSIZE1"> Stand a chance to win exciting cash prizes for securing 1st, 2nd, and 3rd positions in each category. </div>
             <div className="text-base  text-transparent text-justify bg-clip-text bg-gradient-to-r from-[#272727] to-[#414345] font-bold  w-[550px] pt-1 TEXTSIZE1">

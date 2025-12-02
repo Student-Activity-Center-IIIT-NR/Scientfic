@@ -9,7 +9,7 @@ export const Timeline4 = () => {
                     SCIη′TFIC
                     </div>
                     <div className=" text-transparent text-base font-bold bg-clip-text bg-gradient-to-r from-[#606C88] to-[#3F4C6B]">
-                        January 18, 2025
+                        January 17, 2026
                     </div>
                     <div className="text-black font-medium text-sm">
                     Presentation and Result Declaration 
@@ -20,7 +20,7 @@ export const Timeline4 = () => {
                 <div className="hex3 w-[117px] sm:w-[147px] h-[117px] sm:h-[147px] rotate-90 bg-gradient-to-t from-[#4776E6] to-[#8E54E9] relative">
                     <div className="absolute h-fit px-7 sm:px-10 top-[20%] sm:top-[25%] left-1 -rotate-90 flex flex-col justify-center items-end text-white">
                         <div className="text-5xl">
-                            18
+                            17
                         </div>
                         <div className="text-xl">
                             Jan
