@@ -8,7 +8,7 @@ export const ThemeCard1 = ({ theme, color }) => {
     <div className="w-[17rem] flex flex-col ">
       <div className="w-full h-[14vw]">
         <img
-          className="w-full h-full object-cover"
+          className="w-full h-full object-contain"
           alt="theme"
           src={theme.image}
         />

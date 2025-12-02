@@ -9,7 +9,7 @@ export const Timeline2 = () => {
                         Submission Closes
                     </div>
                     <div className=" text-transparent text-base font-bold bg-clip-text bg-gradient-to-r from-[#606C88] to-[#3F4C6B]">
-                        December 30, 2024
+                        December 30, 2025
                     </div>
                     <div className="text-black font-medium hidden sm:block text-sm">
                         The team will submit their abstract of the project ideas breifing the scientific proposal based on the chosen theme

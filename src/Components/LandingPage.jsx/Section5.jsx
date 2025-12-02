@@ -51,7 +51,7 @@ export const Section5 = () => {
             <li className="py-1.5">
               Think about any innovative solution to the problems listed under
               the SCI<span id="eta">&#951;</span>
-              <span id="prime">&#8242;</span>TFIC 2k25 themes. Take help from
+              <span id="prime">&#8242;</span>TFIC 2k26 themes. Take help from
               your teachers/mentors/parents.
             </li>
             <li className="py-1.5">

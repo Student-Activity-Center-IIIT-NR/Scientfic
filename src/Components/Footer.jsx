@@ -45,14 +45,14 @@ export const Footer = () => {
                   Faculty Co-ordinators
                 </div>
                 <div className="text-sm lg:text-base">
-                  Dr. Kavita Jaiswal (Co-ordinator ) +917000041643
-                 
+                  Dr. Chandra Shekhar Nishad
                 </div>
                 <div className="text-sm lg:text-base">
-                  Dr Aruna Shukla ( Co-coordinator) +918851-219024 
+                  Dr. Kavita Jaiswal
+                 
                 </div>
               </div>
-              <div className="flex flex-col justify-start items-start space-y-2">
+              {/* <div className="flex flex-col justify-start items-start space-y-2">
                 <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
                   Student Co-ordinators
                 </div>
@@ -69,8 +69,8 @@ export const Footer = () => {
                   Vaishnavi Shrivastava- 7972247523
                   </div>
                 </div>
-              </div>
-              <div className="flex flex-col justify-start items-start space-y-2">
+              </div> */}
+              {/* <div className="flex flex-col justify-start items-start space-y-2">
                 <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
                   Website team members
                 </div>
@@ -79,7 +79,7 @@ export const Footer = () => {
                   <div className="text-sm lg:text-base">Chiman Esda</div>
                   <div className="text-sm lg:text-base">Yog Verma</div>
                 </div>
-              </div>
+              </div> */}
               <div className="flex flex-col justify-start items-start space-y-2">
                 <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
                   Social Media Accounts

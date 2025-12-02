@@ -9,7 +9,7 @@ export const Timeline3 = () => {
             Screening of Applications
           </div>
           <div className=" text-transparent text-base font-bold bg-clip-text bg-gradient-to-r from-[#606C88] to-[#3F4C6B]">
-            December 30, 2024
+            December 30, 2025
           </div>
           <div className="text-black font-medium text-sm">
             Shortlisted candidates will be notified through email
