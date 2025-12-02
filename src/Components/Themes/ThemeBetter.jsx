@@ -8,19 +8,19 @@ export const ThemeBetter = () => {
     "C3-5": [
       {
         name: "Make in India",
-        image: "./assets/themes/1.png",
+        image: "./assets/themes/1.PNG",
         description:
           "",
       },
       {
         name: "Waste management and Garbage disposal",
-        image: "./assets/themes/2.png",
+        image: "./assets/themes/2.PNG",
         description:
           "",
       },
       {
         name: "Renewable vs. Non-Renewable Energy Sources",
-        image: "./assets/themes/3.png",
+        image: "./assets/themes/3.PNG",
         description:
           "",
       },
@@ -28,19 +28,19 @@ export const ThemeBetter = () => {
     "C5-8": [
       {
         name: "Climate Change & Its Effects",
-        image: "./assets/themes/4.png",
+        image: "./assets/themes/4.PNG",
         description:
           "",
         },
       {
         name: "Forest Ecosystems",
-        image: "./assets/themes/5.png",
+        image: "./assets/themes/5.PNG",
         description:
           "",
         },
       {
         name: "Science Behind Traditional Indian Practices",
-        image: "./assets/themes/6.png",
+        image: "./assets/themes/6.PNG",
         description:
           "",
         },
@@ -48,19 +48,19 @@ export const ThemeBetter = () => {
     "C9-12": [
       {
         name: "Cybersecurity & Digital Safety",
-        image: "./assets/themes/7.png",
+        image: "./assets/themes/7.PNG",
         description:
           "",
         },
       {
         name: "Green Energy Innovations",
-        image: "./assets/themes/8.png",
+        image: "./assets/themes/8.PNG",
         description:
           "",
         },
       {
         name: "Nanotechnology in Modern World",
-        image: "./assets/themes/9.png",
+        image: "./assets/themes/9.PNG",
         description:
           "",
         },
