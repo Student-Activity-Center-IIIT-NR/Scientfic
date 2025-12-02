@@ -49,7 +49,7 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
 
       - name: Build with CRA
-        run: ${{ steps.detect-package-manager.outputs.runner }} react-scripts build
+        run: CI=false ${{ steps.detect-package-manager.outputs.runner }} react-scripts build
 
       - name: Add 404.html fallback
         run: cp build/index.html build/404.html
