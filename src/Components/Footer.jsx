@@ -145,10 +145,10 @@ export const Footer = () => {
                 Dr. Kavita Jaiswal: +917000041643
               </div>
               <div className="text-sm lg:text-base">
-                Dr. Aruna Shukla  : +91 8851219024 
+                Dr. Chandra Shekhar Nishad 
               </div>
             </div>
-            <div className="flex flex-col justify-start items-start space-y-1">
+            {/* <div className="flex flex-col justify-start items-start space-y-1">
               <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
                 Student Co-ordinators
               </div>
@@ -163,8 +163,8 @@ export const Footer = () => {
                 Vaishnavi Shrivastava- 7972247523
                 </div>
               </div>
-            </div>
-            <div className="flex flex-col justify-start items-start space-y-2">
+            </div> */}
+            {/* <div className="flex flex-col justify-start items-start space-y-2">
               <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base">
                 Organizing Student team members
               </div>
@@ -176,7 +176,7 @@ export const Footer = () => {
 
                 <div className="text-sm lg:text-base"></div>
               </div>
-            </div>
+            </div> */}
             <div className="flex flex-col justify-start items-start space-y-2">
               <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
                 Social Media Accounts
