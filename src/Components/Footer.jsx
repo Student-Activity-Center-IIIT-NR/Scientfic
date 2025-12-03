@@ -45,10 +45,10 @@ export const Footer = () => {
                   Faculty Co-ordinators
                 </div>
                 <div className="text-sm lg:text-base">
-                  Dr. Chandra Shekhar Nishad
+                  Dr. Chandra Shekhar Nishad - 9002303140
                 </div>
                 <div className="text-sm lg:text-base">
-                  Dr. Kavita Jaiswal
+                  Dr. Kavita Jaiswal - 7587192184
                  
                 </div>
               </div>
@@ -141,12 +141,13 @@ export const Footer = () => {
               <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
                 Faculty Co-ordinators
               </div>
-              <div className="text-sm lg:text-base">
-                Dr. Kavita Jaiswal: +917000041643
-              </div>
-              <div className="text-sm lg:text-base">
-                Dr. Chandra Shekhar Nishad 
-              </div>
+                <div className="text-sm lg:text-base">
+                  Dr. Chandra Shekhar Nishad - 9002303140
+                </div>
+                <div className="text-sm lg:text-base">
+                  Dr. Kavita Jaiswal - 7587192184
+                 
+                </div>
             </div>
             {/* <div className="flex flex-col justify-start items-start space-y-1">
               <div className="uppercase drop-shadow-2xl shadow-[#5172E7] font-semibold text-base lg:text-lg">
