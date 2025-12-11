@@ -5,7 +5,7 @@ export const  Register = () =>{
 
 
         const handleClick = ()=>{
-            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSd_XP-cGs7wKU9QJ9VkP-S8GaaSDEk-TfzqJ5og2VsDLlJ9jA/viewform?usp=sharing";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSf4fsyPWqmiVY5thgJNao-a8xZRELwj7GjCSKjR2HYOmjh_kg/viewform";
         }
 
     return (

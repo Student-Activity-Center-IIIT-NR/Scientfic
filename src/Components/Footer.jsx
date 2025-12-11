@@ -142,7 +142,7 @@ export const Footer = () => {
                 Faculty Co-ordinators
               </div>
                 <div className="text-sm lg:text-base">
-                  Dr. Chandra Shekhar Nishad - 9002303140
+                  Dr. Chandra Shekhar Nishad - 8887518935
                 </div>
                 <div className="text-sm lg:text-base">
                   Dr. Kavita Jaiswal - 7587192184
