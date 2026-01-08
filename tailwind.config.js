@@ -7,11 +7,16 @@ module.exports = {
     extend: {
       animation: {
         blink: 'blink 0.8s ease-in-out infinite',
+        marquee: 'marquee 20s linear infinite',
       },
 
       keyframes :{
         blink :{
           '50%' : {opacity : '0'},
+        },
+        marquee: {
+          '0%': { transform: 'translateX(0%)' },
+          '100%': { transform: 'translateX(-50%)' },
         },
       },
     },
